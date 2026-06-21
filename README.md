@@ -31,10 +31,6 @@ Diagnosing, repairing, and upgrading desktops and laptops. Experienced with PC b
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shauryashekhawat-tech&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shauryashekhawat-tech&layout=compact)
-
 ## Connect
 
 * LinkedIn: [Click Here](https://www.linkedin.com/in/shaurya-pratap-singh-4257b2381 )
