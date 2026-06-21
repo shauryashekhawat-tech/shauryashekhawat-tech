@@ -2,6 +2,13 @@
 
 #### Linux Enthusiast | Systems & Networking Student | Cybersecurity Learner
 
+![Linux](https://img.shields.io/badge/Linux-4%2B%20Years-blue)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-User-1793D1)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-User-557C94)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learner-green)
+![Networking](https://img.shields.io/badge/Networking-Intermediate-orange)
+![Android Modding](https://img.shields.io/badge/Android-Modding-brightgreen)
+
 Building practical expertise in Linux, Android systems, networking, cybersecurity, and hardware through hands-on experimentation, troubleshooting, and continuous learning.
 
 I'm a B.Tech Computer Science student at DIT University with over 4 years of experience using Linux as my primary operating system. I enjoy understanding technology from the ground up, whether it's repairing hardware, recovering Android devices, configuring Linux systems, or exploring cybersecurity concepts.
@@ -24,91 +31,9 @@ Diagnosing, repairing, and upgrading desktops and laptops. Experienced with PC b
 
 ---
 
-## Technologies & Tools
+## GitHub Statistics
 
-### Operating Systems
-
-* Arch Linux
-* Kali Linux
-* RHEL
-* Windows
-
-### Virtualization
-
-* VirtualBox
-* VMware
-* Hyper-V
-
-### Networking & Security
-
-* TCP/IP
-* DNS
-* VPN Configuration
-* Aircrack-ng
-* Metasploit
-
-### Development
-
-* C Programming
-* Python
-* Git
-* GitHub
-* HTML
-
-### Android
-
-* ADB
-* Fastboot
-* Custom ROMs
-* Android Rooting
-* Bootloader Unlocking
-* Device Recovery
-
-### AI & Productivity
-
-* Generative AI
-* Local LLMs
-* Prompt Engineering
-* AI-Assisted Development
-
----
-
-## Certifications
-
-### ISRO / IIRS Outreach Programme
-
-* Overview of Remote Sensing Technology
-* Advances in Remote Sensing Data Analysis
-* Aerosols: Measurement, Retrieval and Impacts
-* Understanding the Science Behind Geological Processes
-
----
-
-## Current Focus
-
-* Cybersecurity
-* Linux Internals
-* Python Development
-* Artificial Intelligence
-* Robotics
-* Open Source Technologies
-
----
-
-
-## Technical Interests
-
-* Linux Administration
-* System Internals
-* Android Systems
-* Cybersecurity
-* Computer Networking
-* Virtualization
-* Hardware Diagnostics
-* Open Source Software
-* Self-Hosting
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shauryashekhawat-tech&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shauryashekhawat-tech&layout=compact)
 
 ## Connect
 
